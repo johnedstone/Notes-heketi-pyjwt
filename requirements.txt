@@ -1,0 +1,5 @@
+# https://github.com/heketi/heketi/wiki/API#authentication
+# https://pyjwt.readthedocs.io/en/latest/
+# https://github.com/jpadilla/pyjwt
+# tested on python 2.7 and 3.6
+pyjwt
