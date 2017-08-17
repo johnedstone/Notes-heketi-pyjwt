@@ -39,3 +39,9 @@ pwd
 ls
 roles     Vagrantfile site.yml README.md     up.sh
 ```
+
+### For Openshift, see these two references
+
+* https://docs.openshift.com/container-platform/3.5/install_config/persistent_storage/dynamically_provisioning_pvs.html
+
+* https://docs.openshift.com/container-platform/3.5/install_config/storage_examples/storage_classes_dynamic_provisioning.html#install-config-storage-examples-storage-classes-dynamic-provisioning
