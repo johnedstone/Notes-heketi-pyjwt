@@ -26,6 +26,7 @@ learn to use pyjwt directly
 ### References
 
 * https://github.com/heketi/heketi/wiki/API#authentication
+* https://github.com/heketi/vagrant-heketi.git (see below)
 
 ```
 git remote -v
